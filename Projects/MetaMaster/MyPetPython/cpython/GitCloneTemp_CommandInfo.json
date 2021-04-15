@@ -1,0 +1,10 @@
+{
+    "commandText": "git clone --progress --verbose https://github.com/python/cpython undefined\\pyth--04-13-2021--uSxkDERE5NoW5Fx6jPm3Zt/cpython",
+    "repo": "https://github.com/python/cpython",
+    "targetPath": "undefined\\pyth--04-13-2021--uSxkDERE5NoW5Fx6jPm3Zt/cpython",
+    "startTime": "2021-04-14T05:16:51.588Z",
+    "endTime": "2021-04-14T05:20:20.382Z",
+    "childProcessPid": 76285,
+    "executionErrors": [],
+    "commandLogFilePath": "/Users/brian/dev_space/GitHub_/GitHub-briancabbott/programming-sandbox-python/Resources/code/python-github/workingdir/--python--cpython--76285"
+}
