@@ -1,0 +1,753 @@
+{
+    "organizationName": "python",
+    "generationTime": "2021-04-14T05:16:20.335Z",
+    "repositories": [
+        {
+            "url": "https://github.com/python/.github",
+            "id": "MDEwOlJlcG9zaXRvcnkxODk1MDYyMjg=",
+            "createdAt": "2019-05-31T01:27:21Z",
+            "description": "Organization-wide GitHub settings",
+            "diskUsage": 3,
+            "name": ".github",
+            "pushedAt": "2020-11-20T13:10:03Z"
+        },
+        {
+            "url": "https://github.com/python/asyncio",
+            "id": "MDEwOlJlcG9zaXRvcnkzMzczOTI5NQ==",
+            "createdAt": "2015-04-10T16:41:54Z",
+            "description": "asyncio historical repository",
+            "diskUsage": 2225,
+            "name": "asyncio",
+            "pushedAt": "2019-07-30T12:47:11Z"
+        },
+        {
+            "url": "https://github.com/python/bedevere",
+            "id": "MDEwOlJlcG9zaXRvcnk4NzU3NDMwNA==",
+            "createdAt": "2017-04-07T18:15:00Z",
+            "description": "A bot to help identify missing information for CPython pull requests",
+            "diskUsage": 221,
+            "name": "bedevere",
+            "pushedAt": "2021-04-05T05:39:01Z"
+        },
+        {
+            "url": "https://github.com/python/blurb_it",
+            "id": "MDEwOlJlcG9zaXRvcnkxNDgzOTk1Mjc=",
+            "createdAt": "2018-09-12T00:53:09Z",
+            "description": "`blurb add` over the internet",
+            "diskUsage": 685,
+            "name": "blurb_it",
+            "pushedAt": "2021-04-05T05:33:57Z"
+        },
+        {
+            "url": "https://github.com/python/bpo-builder",
+            "id": "MDEwOlJlcG9zaXRvcnkxMTQzNDM1NTQ=",
+            "createdAt": "2017-12-15T08:00:38Z",
+            "description": "bugs.python.org builder image & other deployment artifacts",
+            "diskUsage": 35,
+            "name": "bpo-builder",
+            "pushedAt": "2018-05-18T23:29:39Z"
+        },
+        {
+            "url": "https://github.com/python/bugs.python.org",
+            "id": "MDEwOlJlcG9zaXRvcnkxMzc0OTAzNzQ=",
+            "createdAt": "2018-06-15T13:23:47Z",
+            "description": "Meta-issue tracker for bugs.python.org",
+            "diskUsage": 2,
+            "name": "bugs.python.org",
+            "pushedAt": "2018-06-26T13:16:57Z"
+        },
+        {
+            "url": "https://github.com/python/buildbot",
+            "id": "MDEwOlJlcG9zaXRvcnk0MDkxMjIzOQ==",
+            "createdAt": "2015-08-17T16:56:20Z",
+            "description": "Fork of BuildBot formerly running on buildbot.python.org",
+            "diskUsage": 42115,
+            "name": "buildbot",
+            "pushedAt": "2017-02-08T05:41:03Z"
+        },
+        {
+            "url": "https://github.com/python/buildmaster-config",
+            "id": "MDEwOlJlcG9zaXRvcnk4MDQ4ODA1NQ==",
+            "createdAt": "2017-01-31T03:29:06Z",
+            "description": "Configuration for buildbot.python.org",
+            "diskUsage": 392,
+            "name": "buildmaster-config",
+            "pushedAt": "2021-04-12T20:06:17Z"
+        },
+        {
+            "url": "https://github.com/python/cherry-picker",
+            "id": "MDEwOlJlcG9zaXRvcnkxODk0ODA3NDM=",
+            "createdAt": "2019-05-30T20:49:46Z",
+            "description": "🐍🍒⛏ Utility script for backporting/cherry-picking CPython changes from master into one of the maintenance branches.",
+            "diskUsage": 167,
+            "name": "cherry-picker",
+            "pushedAt": "2021-02-05T18:39:21Z"
+        },
+        {
+            "url": "https://github.com/python/cla-assistant",
+            "id": "MDEwOlJlcG9zaXRvcnkxNDc0MTMzMjA=",
+            "createdAt": "2018-09-04T20:31:47Z",
+            "description": "Contributor License Agreement assistant (CLA assistant)",
+            "diskUsage": 8278,
+            "name": "cla-assistant",
+            "pushedAt": "2021-04-13T06:39:38Z"
+        },
+        {
+            "url": "https://github.com/python/codespeed",
+            "id": "MDEwOlJlcG9zaXRvcnkxNzIwNTAwNDM=",
+            "createdAt": "2019-02-22T10:53:30Z",
+            "description": "A web application to monitor and analyze the performance of your code",
+            "diskUsage": 2801,
+            "name": "codespeed",
+            "pushedAt": "2020-12-30T22:33:26Z"
+        },
+        {
+            "url": "https://github.com/python/community-starter-kit",
+            "id": "MDEwOlJlcG9zaXRvcnkzNjk4OTE4",
+            "createdAt": "2012-03-12T19:23:37Z",
+            "description": "Collection of resources for Python community organizers",
+            "diskUsage": 225,
+            "name": "community-starter-kit",
+            "pushedAt": "2013-01-22T18:33:31Z"
+        },
+        {
+            "url": "https://github.com/python/consul-operator",
+            "id": "MDEwOlJlcG9zaXRvcnk5OTQ0OTgwNQ==",
+            "createdAt": "2017-08-05T21:57:14Z",
+            "description": "A kubernetes operator for consul",
+            "diskUsage": 22,
+            "name": "consul-operator",
+            "pushedAt": "2017-08-10T04:11:18Z"
+        },
+        {
+            "url": "https://github.com/python/core-sprint",
+            "id": "MDEwOlJlcG9zaXRvcnkyODU5MTM5NDc=",
+            "createdAt": "2020-08-07T20:19:04Z",
+            "description": "Repo for Virtual Core Dev Sprint 2020",
+            "diskUsage": 511,
+            "name": "core-sprint",
+            "pushedAt": "2020-10-23T13:20:02Z"
+        },
+        {
+            "url": "https://github.com/python/core-workflow",
+            "id": "MDEwOlJlcG9zaXRvcnk3NjA4MDg2NQ==",
+            "createdAt": "2016-12-10T00:36:07Z",
+            "description": "Issue tracker for CPython's workflow",
+            "diskUsage": 289,
+            "name": "core-workflow",
+            "pushedAt": "2020-12-03T13:17:20Z"
+        },
+        {
+            "url": "https://github.com/python/cpython",
+            "id": "MDEwOlJlcG9zaXRvcnk4MTU5ODk2MQ==",
+            "createdAt": "2017-02-10T19:23:51Z",
+            "description": "The Python programming language",
+            "diskUsage": 366549,
+            "name": "cpython",
+            "pushedAt": "2021-04-14T05:12:58Z"
+        },
+        {
+            "url": "https://github.com/python/cpython-bin-deps",
+            "id": "MDEwOlJlcG9zaXRvcnk5MjA4MDA0OA==",
+            "createdAt": "2017-05-22T17:22:58Z",
+            "description": "Binaries that the cpython build process depends on",
+            "diskUsage": 223048,
+            "name": "cpython-bin-deps",
+            "pushedAt": "2021-04-06T11:33:55Z"
+        },
+        {
+            "url": "https://github.com/python/cpython-source-deps",
+            "id": "MDEwOlJlcG9zaXRvcnk5MjA3OTgxNw==",
+            "createdAt": "2017-05-22T17:20:29Z",
+            "description": "Source for packages that the cpython build process depends on",
+            "diskUsage": 68413,
+            "name": "cpython-source-deps",
+            "pushedAt": "2021-03-29T23:55:21Z"
+        },
+        {
+            "url": "https://github.com/python/devguide",
+            "id": "MDEwOlJlcG9zaXRvcnk2Mzk3MjQ3OQ==",
+            "createdAt": "2016-07-22T17:48:56Z",
+            "description": "The Python developer's guide",
+            "diskUsage": 1297,
+            "name": "devguide",
+            "pushedAt": "2021-04-08T22:18:51Z"
+        },
+        {
+            "url": "https://github.com/python/devinabox",
+            "id": "MDEwOlJlcG9zaXRvcnk1ODMyOTAyOQ==",
+            "createdAt": "2016-05-08T20:03:52Z",
+            "description": "Documentation and tools to help host a sprint on Python core development",
+            "diskUsage": 54,
+            "name": "devinabox",
+            "pushedAt": "2016-05-09T19:23:54Z"
+        },
+        {
+            "url": "https://github.com/python/docker-bpo",
+            "id": "MDEwOlJlcG9zaXRvcnk4MzIzOTU0Mg==",
+            "createdAt": "2017-02-26T20:47:20Z",
+            "description": "Docker image for bugs.python.org",
+            "diskUsage": 28,
+            "name": "docker-bpo",
+            "pushedAt": "2020-12-07T10:29:01Z"
+        },
+        {
+            "url": "https://github.com/python/docsbuild-scripts",
+            "id": "MDEwOlJlcG9zaXRvcnkyMzU1MzQ3Mg==",
+            "createdAt": "2014-09-01T19:29:17Z",
+            "description": "scripts for building documentation on docs.python.org",
+            "diskUsage": 176,
+            "name": "docsbuild-scripts",
+            "pushedAt": "2021-04-13T08:08:36Z"
+        },
+        {
+            "url": "https://github.com/python/exceptiongroups",
+            "id": "MDEwOlJlcG9zaXRvcnkyMjg0NjIxNDg=",
+            "createdAt": "2019-12-16T19:41:57Z",
+            "description": "An early draft of a PEP around Exception Groups in Python",
+            "diskUsage": 69,
+            "name": "exceptiongroups",
+            "pushedAt": "2021-02-19T10:02:17Z"
+        },
+        {
+            "url": "https://github.com/python/getpython3.com",
+            "id": "MDEwOlJlcG9zaXRvcnkyNDc0NzE5",
+            "createdAt": "2011-09-28T12:30:52Z",
+            "description": "getpython3.com page and resources.",
+            "diskUsage": 400,
+            "name": "getpython3.com",
+            "pushedAt": "2018-06-08T16:26:41Z"
+        },
+        {
+            "url": "https://github.com/python/historic-python-materials",
+            "id": "MDEwOlJlcG9zaXRvcnk0Mjk5MDQw",
+            "createdAt": "2012-05-11T16:15:38Z",
+            "description": "Contains some old pages from python.org",
+            "diskUsage": 20969,
+            "name": "historic-python-materials",
+            "pushedAt": "2012-05-11T16:33:10Z"
+        },
+        {
+            "url": "https://github.com/python/hugs.python.org",
+            "id": "MDEwOlJlcG9zaXRvcnkyMzc4MjE3NzU=",
+            "createdAt": "2020-02-02T19:09:38Z",
+            "description": null,
+            "diskUsage": 5,
+            "name": "hugs.python.org",
+            "pushedAt": "2020-02-02T20:56:10Z"
+        },
+        {
+            "url": "https://github.com/python/importlib_metadata",
+            "id": "MDEwOlJlcG9zaXRvcnkzMDY0NDgzNDA=",
+            "createdAt": "2020-10-22T20:13:11Z",
+            "description": null,
+            "diskUsage": 781,
+            "name": "importlib_metadata",
+            "pushedAt": "2021-04-12T21:42:40Z"
+        },
+        {
+            "url": "https://github.com/python/importlib_resources",
+            "id": "MDEwOlJlcG9zaXRvcnkzMDYxNDcxODI=",
+            "createdAt": "2020-10-21T21:02:58Z",
+            "description": null,
+            "diskUsage": 395,
+            "name": "importlib_resources",
+            "pushedAt": "2021-03-28T03:18:58Z"
+        },
+        {
+            "url": "https://github.com/python/kube-cert-manager",
+            "id": "MDEwOlJlcG9zaXRvcnk5ODQ3MDE2MA==",
+            "createdAt": "2017-07-26T22:17:30Z",
+            "description": "Manage Lets Encrypt certificates for a Kubernetes cluster.",
+            "diskUsage": 178,
+            "name": "kube-cert-manager",
+            "pushedAt": "2017-07-17T13:22:10Z"
+        },
+        {
+            "url": "https://github.com/python/language-summit",
+            "id": "MDEwOlJlcG9zaXRvcnkzMjk2ODAyODY=",
+            "createdAt": "2021-01-14T17:01:30Z",
+            "description": "Resources for the annual Python Language Summit",
+            "diskUsage": 3,
+            "name": "language-summit",
+            "pushedAt": "2021-01-14T19:23:57Z"
+        },
+        {
+            "url": "https://github.com/python/miss-islington",
+            "id": "MDEwOlJlcG9zaXRvcnkxMDI1MDg1NTY=",
+            "createdAt": "2017-09-05T17:06:04Z",
+            "description": "🐍🍒⛏🤖 - A bot for backporting and merging CPython pull requests",
+            "diskUsage": 228,
+            "name": "miss-islington",
+            "pushedAt": "2021-04-05T05:34:39Z"
+        },
+        {
+            "url": "https://github.com/python/mypy",
+            "id": "MDEwOlJlcG9zaXRvcnk3MDUzNjM3",
+            "createdAt": "2012-12-07T13:30:23Z",
+            "description": "Optional static typing for Python 3 and 2 (PEP 484)",
+            "diskUsage": 46324,
+            "name": "mypy",
+            "pushedAt": "2021-04-13T16:22:50Z"
+        },
+        {
+            "url": "https://github.com/python/mypy_extensions",
+            "id": "MDEwOlJlcG9zaXRvcnkxNjU3NTIzMDg=",
+            "createdAt": "2019-01-14T23:37:26Z",
+            "description": "Extensions for mypy (separated out from mypy/extensions).",
+            "diskUsage": 27,
+            "name": "mypy_extensions",
+            "pushedAt": "2021-01-04T18:34:47Z"
+        },
+        {
+            "url": "https://github.com/python/overload-sig",
+            "id": "MDEwOlJlcG9zaXRvcnk2NTkxMzc5NA==",
+            "createdAt": "2016-08-17T14:22:49Z",
+            "description": "Discussion about discussion overload, see https://mail.python.org/mm3/mailman3/lists/overload-sig@python.org/",
+            "diskUsage": 0,
+            "name": "overload-sig",
+            "pushedAt": "2016-08-17T14:22:50Z"
+        },
+        {
+            "url": "https://github.com/python/peps",
+            "id": "MDEwOlJlcG9zaXRvcnkxMzQxNDEwNQ==",
+            "createdAt": "2013-10-08T13:27:12Z",
+            "description": "Python Enhancement Proposals",
+            "diskUsage": 16498,
+            "name": "peps",
+            "pushedAt": "2021-04-13T23:22:32Z"
+        },
+        {
+            "url": "https://github.com/python/planet",
+            "id": "MDEwOlJlcG9zaXRvcnkyNDIxNjEzNQ==",
+            "createdAt": "2014-09-19T04:26:25Z",
+            "description": "Configuration for Python planets (e.g. http://planetpython.org)",
+            "diskUsage": 1350,
+            "name": "planet",
+            "pushedAt": "2021-04-13T20:04:03Z"
+        },
+        {
+            "url": "https://github.com/python/pootle-python-org-backup",
+            "id": "MDEwOlJlcG9zaXRvcnkzMDkxOTM5OTc=",
+            "createdAt": "2020-11-01T21:41:47Z",
+            "description": null,
+            "diskUsage": 20547,
+            "name": "pootle-python-org-backup",
+            "pushedAt": "2020-11-04T21:42:52Z"
+        },
+        {
+            "url": "https://github.com/python/psf-bylaws",
+            "id": "MDEwOlJlcG9zaXRvcnk5NDQ3MDk3MA==",
+            "createdAt": "2017-06-15T19:11:58Z",
+            "description": "PSF Bylaws in markdown format",
+            "diskUsage": 52,
+            "name": "psf-bylaws",
+            "pushedAt": "2018-05-10T03:06:57Z"
+        },
+        {
+            "url": "https://github.com/python/psf-ca",
+            "id": "MDEwOlJlcG9zaXRvcnkyNDAzNDE1OQ==",
+            "createdAt": "2014-09-14T21:42:50Z",
+            "description": null,
+            "diskUsage": 116,
+            "name": "psf-ca",
+            "pushedAt": "2014-09-14T21:43:04Z"
+        },
+        {
+            "url": "https://github.com/python/psf-chef",
+            "id": "MDEwOlJlcG9zaXRvcnk0Mzg5MjYy",
+            "createdAt": "2012-05-21T02:31:56Z",
+            "description": "Chef configuration and cookbooks for the Python Software Foundation",
+            "diskUsage": 8943,
+            "name": "psf-chef",
+            "pushedAt": "2020-02-13T13:34:53Z"
+        },
+        {
+            "url": "https://github.com/python/psf-community-resources",
+            "id": "MDEwOlJlcG9zaXRvcnkxMDA2MjM4NjI=",
+            "createdAt": "2017-08-17T16:27:10Z",
+            "description": "Short guides to PSF-related resources",
+            "diskUsage": 9,
+            "name": "psf-community-resources",
+            "pushedAt": "2017-08-20T03:14:13Z"
+        },
+        {
+            "url": "https://github.com/python/psf-docs",
+            "id": "MDEwOlJlcG9zaXRvcnk0MjQxMzgy",
+            "createdAt": "2012-05-06T14:19:20Z",
+            "description": "PSF Docs",
+            "diskUsage": 182,
+            "name": "psf-docs",
+            "pushedAt": "2015-08-13T09:51:44Z"
+        },
+        {
+            "url": "https://github.com/python/psf-election",
+            "id": "MDEwOlJlcG9zaXRvcnk5MjQwNzMyNw==",
+            "createdAt": "2017-05-25T13:42:34Z",
+            "description": "Tools and documentation around running a PSF election",
+            "diskUsage": 22,
+            "name": "psf-election",
+            "pushedAt": "2018-06-12T16:58:44Z"
+        },
+        {
+            "url": "https://github.com/python/psf-fastly",
+            "id": "MDEwOlJlcG9zaXRvcnkxNDUwOTQzMw==",
+            "createdAt": "2013-11-19T00:21:37Z",
+            "description": null,
+            "diskUsage": 21,
+            "name": "psf-fastly",
+            "pushedAt": "2018-04-30T14:37:14Z"
+        },
+        {
+            "url": "https://github.com/python/psf-infra-meta",
+            "id": "MDEwOlJlcG9zaXRvcnk5NTE3NTgwMw==",
+            "createdAt": "2017-06-23T02:32:37Z",
+            "description": "Meta-repository for PSF backed or managed systems. Created mainly for the issue tracker :)",
+            "diskUsage": 1,
+            "name": "psf-infra-meta",
+            "pushedAt": "2020-08-29T11:31:09Z"
+        },
+        {
+            "url": "https://github.com/python/psf-packages",
+            "id": "MDEwOlJlcG9zaXRvcnk0MzcwMDYzOA==",
+            "createdAt": "2015-10-05T17:13:37Z",
+            "description": null,
+            "diskUsage": 7648,
+            "name": "psf-packages",
+            "pushedAt": "2015-10-13T14:32:16Z"
+        },
+        {
+            "url": "https://github.com/python/psf-salt",
+            "id": "MDEwOlJlcG9zaXRvcnkyMzI0MjMwNA==",
+            "createdAt": "2014-08-22T22:49:43Z",
+            "description": "PSF infrastructure configuration",
+            "diskUsage": 4852,
+            "name": "psf-salt",
+            "pushedAt": "2021-03-19T09:15:15Z"
+        },
+        {
+            "url": "https://github.com/python/psfoutreach",
+            "id": "MDEwOlJlcG9zaXRvcnk1NjMwMzYw",
+            "createdAt": "2012-08-31T15:19:30Z",
+            "description": "PSF Outreach website",
+            "diskUsage": 572,
+            "name": "psfoutreach",
+            "pushedAt": "2012-10-05T17:31:05Z"
+        },
+        {
+            "url": "https://github.com/python/pycon-code-of-conduct",
+            "id": "MDEwOlJlcG9zaXRvcnk4OTMwMTcz",
+            "createdAt": "2013-03-21T14:08:58Z",
+            "description": "pycon code of conduct",
+            "diskUsage": 39,
+            "name": "pycon-code-of-conduct",
+            "pushedAt": "2019-05-07T13:22:10Z"
+        },
+        {
+            "url": "https://github.com/python/pyperformance",
+            "id": "MDEwOlJlcG9zaXRvcnk2NTk0OTgyOA==",
+            "createdAt": "2016-08-17T23:43:22Z",
+            "description": "Python Performance Benchmark Suite",
+            "diskUsage": 3319,
+            "name": "pyperformance",
+            "pushedAt": "2021-04-13T14:16:29Z"
+        },
+        {
+            "url": "https://github.com/python/pypi-cdn-log-archiver",
+            "id": "MDEwOlJlcG9zaXRvcnkxNjc3MjczOA==",
+            "createdAt": "2014-02-12T16:03:15Z",
+            "description": "Compress raw logs, organize them.",
+            "diskUsage": 16,
+            "name": "pypi-cdn-log-archiver",
+            "pushedAt": "2017-04-09T15:54:45Z"
+        },
+        {
+            "url": "https://github.com/python/pypi-docs-proxy",
+            "id": "MDEwOlJlcG9zaXRvcnkzNTQ5MTUyNA==",
+            "createdAt": "2015-05-12T14:01:53Z",
+            "description": null,
+            "diskUsage": 9,
+            "name": "pypi-docs-proxy",
+            "pushedAt": "2017-04-08T03:42:47Z"
+        },
+        {
+            "url": "https://github.com/python/pypi-infra",
+            "id": "MDEwOlJlcG9zaXRvcnk5ODQ5MDAyMA==",
+            "createdAt": "2017-07-27T03:30:25Z",
+            "description": null,
+            "diskUsage": 3908,
+            "name": "pypi-infra",
+            "pushedAt": "2021-03-31T17:39:37Z"
+        },
+        {
+            "url": "https://github.com/python/pypi-salt",
+            "id": "MDEwOlJlcG9zaXRvcnkxNDUwNzEyMw==",
+            "createdAt": "2013-11-18T22:23:10Z",
+            "description": "salt configuration for PyPI infrastructure",
+            "diskUsage": 514,
+            "name": "pypi-salt",
+            "pushedAt": "2018-08-04T02:34:41Z"
+        },
+        {
+            "url": "https://github.com/python/python-dev-survey",
+            "id": "MDEwOlJlcG9zaXRvcnkxMjcxNjY0MjM=",
+            "createdAt": "2018-03-28T16:12:03Z",
+            "description": "Place for gathering feedback from the public on the Python Developers Survey",
+            "diskUsage": 3,
+            "name": "python-dev-survey",
+            "pushedAt": "2018-03-28T16:47:38Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-bn-in",
+            "id": "MDEwOlJlcG9zaXRvcnk5NDAwNjUwOA==",
+            "createdAt": "2017-06-11T13:34:47Z",
+            "description": null,
+            "diskUsage": 0,
+            "name": "python-docs-bn-in",
+            "pushedAt": "2017-06-11T13:34:47Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-es",
+            "id": "MDEwOlJlcG9zaXRvcnkxODUyMjQ0MDI=",
+            "createdAt": "2019-05-06T15:33:13Z",
+            "description": "Spanish translation of the Python documentation.",
+            "diskUsage": 15669,
+            "name": "python-docs-es",
+            "pushedAt": "2021-04-13T12:22:01Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-fr",
+            "id": "MDEwOlJlcG9zaXRvcnk5MjA5NzUzNQ==",
+            "createdAt": "2017-05-22T20:40:58Z",
+            "description": "French translation of the Python documentation.",
+            "diskUsage": 37093,
+            "name": "python-docs-fr",
+            "pushedAt": "2021-04-13T21:13:22Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-hu",
+            "id": "MDEwOlJlcG9zaXRvcnk5NDAwNjM1NQ==",
+            "createdAt": "2017-06-11T13:32:05Z",
+            "description": "Hungarian Translation of the Python Documentation",
+            "diskUsage": 2842,
+            "name": "python-docs-hu",
+            "pushedAt": "2017-10-04T08:53:52Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-id",
+            "id": "MDEwOlJlcG9zaXRvcnkyMTQwNDk0Mjg=",
+            "createdAt": "2019-10-10T00:18:41Z",
+            "description": "Terjemahan Bahasa Indonesia untuk Dokumentasi Python",
+            "diskUsage": 6506,
+            "name": "python-docs-id",
+            "pushedAt": "2021-04-02T16:57:34Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-it",
+            "id": "MDEwOlJlcG9zaXRvcnkxODI1NTM1OTI=",
+            "createdAt": "2019-04-21T15:55:34Z",
+            "description": "Italian translation of the Python documentation.",
+            "diskUsage": 2788,
+            "name": "python-docs-it",
+            "pushedAt": "2019-09-26T02:24:20Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-ja",
+            "id": "MDEwOlJlcG9zaXRvcnk5NDAwNjQzNg==",
+            "createdAt": "2017-06-11T13:33:21Z",
+            "description": null,
+            "diskUsage": 126106,
+            "name": "python-docs-ja",
+            "pushedAt": "2021-04-13T06:00:08Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-ko",
+            "id": "MDEwOlJlcG9zaXRvcnkxMTcyNDIyMjI=",
+            "createdAt": "2018-01-12T13:07:00Z",
+            "description": "Korean translation of the Python documentation",
+            "diskUsage": 14750,
+            "name": "python-docs-ko",
+            "pushedAt": "2021-04-13T21:44:20Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-pl",
+            "id": "MDEwOlJlcG9zaXRvcnkyMjcyMzU5NzA=",
+            "createdAt": "2019-12-10T23:37:12Z",
+            "description": "Polskie tłumaczenie dokumentacji Pythona",
+            "diskUsage": 61032,
+            "name": "python-docs-pl",
+            "pushedAt": "2021-04-13T21:36:18Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-pt-br",
+            "id": "MDEwOlJlcG9zaXRvcnk5NTE1ODM3NQ==",
+            "createdAt": "2017-06-22T21:33:42Z",
+            "description": "Brazilian Portuguese translation of the Python Documentation",
+            "diskUsage": 47325,
+            "name": "python-docs-pt-br",
+            "pushedAt": "2021-04-13T23:42:08Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-theme",
+            "id": "MDEwOlJlcG9zaXRvcnk5MzM0MTgxOA==",
+            "createdAt": "2017-06-04T21:14:32Z",
+            "description": "Sphinx theme for Python documentation",
+            "diskUsage": 35,
+            "name": "python-docs-theme",
+            "pushedAt": "2021-04-13T21:16:07Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-zh-cn",
+            "id": "MDEwOlJlcG9zaXRvcnkxNTQxNDUxNjM=",
+            "createdAt": "2018-10-22T13:03:51Z",
+            "description": "zh_CN translation of the Python documentation",
+            "diskUsage": 116584,
+            "name": "python-docs-zh-cn",
+            "pushedAt": "2021-04-14T03:13:03Z"
+        },
+        {
+            "url": "https://github.com/python/python-docs-zh-tw",
+            "id": "MDEwOlJlcG9zaXRvcnkxMzg0NTg1NDU=",
+            "createdAt": "2018-06-24T06:19:52Z",
+            "description": null,
+            "diskUsage": 4986,
+            "name": "python-docs-zh-tw",
+            "pushedAt": "2021-03-10T16:27:34Z"
+        },
+        {
+            "url": "https://github.com/python/pythondotorg",
+            "id": "MDEwOlJlcG9zaXRvcnk2MTI3MDQ3",
+            "createdAt": "2012-10-08T16:00:15Z",
+            "description": "Source code for python.org",
+            "diskUsage": 25800,
+            "name": "pythondotorg",
+            "pushedAt": "2021-04-13T20:16:37Z"
+        },
+        {
+            "url": "https://github.com/python/pythonineducation.org",
+            "id": "MDEwOlJlcG9zaXRvcnk2MTIyOTY5MQ==",
+            "createdAt": "2016-06-15T18:10:10Z",
+            "description": "The pythonineducation.org website",
+            "diskUsage": 10534,
+            "name": "pythonineducation.org",
+            "pushedAt": "2020-10-02T04:33:19Z"
+        },
+        {
+            "url": "https://github.com/python/pythontestdotnet",
+            "id": "MDEwOlJlcG9zaXRvcnk2MDI5OTM2MA==",
+            "createdAt": "2016-06-02T21:42:55Z",
+            "description": "source of pythontest.net (resources used for Python test suite)",
+            "diskUsage": 3749,
+            "name": "pythontestdotnet",
+            "pushedAt": "2020-03-11T02:37:49Z"
+        },
+        {
+            "url": "https://github.com/python/raspberryio",
+            "id": "MDEwOlJlcG9zaXRvcnk3NTY3MzUx",
+            "createdAt": "2013-01-11T21:29:18Z",
+            "description": "Source code for raspberry.io",
+            "diskUsage": 4649,
+            "name": "raspberryio",
+            "pushedAt": "2014-04-22T15:28:51Z"
+        },
+        {
+            "url": "https://github.com/python/redistributor-guide",
+            "id": "MDEwOlJlcG9zaXRvcnkxMDAzNjg0NTI=",
+            "createdAt": "2017-08-15T10:53:53Z",
+            "description": "Guidance & recommendations for anyone publishing their own binary builds of CPython",
+            "diskUsage": 5,
+            "name": "redistributor-guide",
+            "pushedAt": "2017-08-15T10:53:54Z"
+        },
+        {
+            "url": "https://github.com/python/release-tools",
+            "id": "MDEwOlJlcG9zaXRvcnk2NzQ0MjM1MA==",
+            "createdAt": "2016-09-05T18:25:11Z",
+            "description": "Scripts for making (C)Python releases",
+            "diskUsage": 229,
+            "name": "release-tools",
+            "pushedAt": "2021-04-05T17:03:17Z"
+        },
+        {
+            "url": "https://github.com/python/request-for",
+            "id": "MDEwOlJlcG9zaXRvcnkxNTUyMTM5NzE=",
+            "createdAt": "2018-10-29T13:10:59Z",
+            "description": "Canonical location of Python Software Foundation Request for Information/Proposal documents.",
+            "diskUsage": 111,
+            "name": "request-for",
+            "pushedAt": "2019-12-05T14:16:55Z"
+        },
+        {
+            "url": "https://github.com/python/speed.python.org",
+            "id": "MDEwOlJlcG9zaXRvcnkyODE5ODkzNg==",
+            "createdAt": "2014-12-18T19:48:53Z",
+            "description": null,
+            "diskUsage": 26,
+            "name": "speed.python.org",
+            "pushedAt": "2016-09-07T20:52:25Z"
+        },
+        {
+            "url": "https://github.com/python/steering-council",
+            "id": "MDEwOlJlcG9zaXRvcnkxNzAzNzY3Mzc=",
+            "createdAt": "2019-02-12T19:18:46Z",
+            "description": "Communications from the Steering Council",
+            "diskUsage": 78,
+            "name": "steering-council",
+            "pushedAt": "2021-04-05T17:37:38Z"
+        },
+        {
+            "url": "https://github.com/python/the-knights-who-say-ni",
+            "id": "MDEwOlJlcG9zaXRvcnk1NDkwNjc0Mg==",
+            "createdAt": "2016-03-28T16:39:27Z",
+            "description": "CLA enforcement bot for Python organization projects",
+            "diskUsage": 240,
+            "name": "the-knights-who-say-ni",
+            "pushedAt": "2021-04-05T22:32:44Z"
+        },
+        {
+            "url": "https://github.com/python/tlsproxy",
+            "id": "MDEwOlJlcG9zaXRvcnk2MTQ0MjQ1OQ==",
+            "createdAt": "2016-06-18T16:26:09Z",
+            "description": null,
+            "diskUsage": 2,
+            "name": "tlsproxy",
+            "pushedAt": "2016-06-18T16:27:14Z"
+        },
+        {
+            "url": "https://github.com/python/typed_ast",
+            "id": "MDEwOlJlcG9zaXRvcnk1MTg3NTgyOA==",
+            "createdAt": "2016-02-16T22:40:09Z",
+            "description": "Modified fork of CPython's ast module that parses `# type:` comments",
+            "diskUsage": 1790,
+            "name": "typed_ast",
+            "pushedAt": "2021-04-12T00:18:06Z"
+        },
+        {
+            "url": "https://github.com/python/typeshed",
+            "id": "MDEwOlJlcG9zaXRvcnkzMTY5NjM4Mw==",
+            "createdAt": "2015-03-05T04:51:28Z",
+            "description": "Collection of library stubs for Python, with static types",
+            "diskUsage": 8237,
+            "name": "typeshed",
+            "pushedAt": "2021-04-14T04:02:38Z"
+        },
+        {
+            "url": "https://github.com/python/typing",
+            "id": "MDEwOlJlcG9zaXRvcnkyNDYwNDAwOA==",
+            "createdAt": "2014-09-29T16:54:42Z",
+            "description": "Work related to PEP 484: typing.py and typing_extensions.py (both released via PyPI) and issue tracker for type system bugs/features.",
+            "diskUsage": 1707,
+            "name": "typing",
+            "pushedAt": "2021-04-13T15:26:08Z"
+        },
+        {
+            "url": "https://github.com/python/tzdata",
+            "id": "MDEwOlJlcG9zaXRvcnkyNDIxNTg4ODI=",
+            "createdAt": "2020-02-21T14:32:53Z",
+            "description": "Python package wrapping the IANA time zone database",
+            "diskUsage": 346,
+            "name": "tzdata",
+            "pushedAt": "2021-01-26T16:18:42Z"
+        }
+    ]
+}

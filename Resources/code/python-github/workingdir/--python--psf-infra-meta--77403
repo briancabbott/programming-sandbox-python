@@ -1,0 +1,6 @@
+child_process(77403)::clone(https://github.com/python/psf-infra-meta):stderr:data: Cloning into 'undefined\pyth--04-13-2021--uSxkDERE5NoW5Fx6jPm3Zt/psf-infra-meta'...
+child_process(77403)::clone(https://github.com/python/psf-infra-meta):stderr:data: POST git-upload-pack (164 bytes)
+child_process(77403)::clone(https://github.com/python/psf-infra-meta):stderr:data: POST git-upload-pack (202 bytes)
+child_process(77403)::clone(https://github.com/python/psf-infra-meta):stderr:data: remote: Enumerating objects: 9, done.        
+remote: Total 9 (delta 0), reused 0 (delta 0), pack-reused 9        
+child_process(77403)::clone(https://github.com/python/psf-infra-meta):stderr:data: Receiving objects:  11% (1/9)Receiving objects:  22% (2/9)child_process(77403)::clone(https://github.com/python/psf-infra-meta):stderr:data: Receiving objects:  33% (3/9)Receiving objects:  44% (4/9)child_process(77403)::clone(https://github.com/python/psf-infra-meta):stderr:data: Resolving deltas:  50% (1/2)child_process(77403)::clone(https://github.com/python/psf-infra-meta):close()

@@ -1,0 +1,6 @@
+child_process(76057)::clone(https://github.com/python/bugs.python.org):stderr:data: Cloning into 'undefined\pyth--04-13-2021--uSxkDERE5NoW5Fx6jPm3Zt/bugs.python.org'...
+child_process(76057)::clone(https://github.com/python/bugs.python.org):stderr:data: POST git-upload-pack (164 bytes)
+child_process(76057)::clone(https://github.com/python/bugs.python.org):stderr:data: POST git-upload-pack (202 bytes)
+child_process(76057)::clone(https://github.com/python/bugs.python.org):stderr:data: remote: Enumerating objects: 7, done.        
+remote: Total 7 (delta 0), reused 0 (delta 0), pack-reused 7        
+child_process(76057)::clone(https://github.com/python/bugs.python.org):stderr:data: Receiving objects:  14% (1/7)child_process(76057)::clone(https://github.com/python/bugs.python.org):stderr:data: Receiving objects:  28% (2/7)Receiving objects:  42% (3/7)Receiving objects:  57% (4/7)Receiving objects:  71% (5/7)child_process(76057)::clone(https://github.com/python/bugs.python.org):close()

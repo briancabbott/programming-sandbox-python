@@ -1,0 +1,7 @@
+child_process(77765)::clone(https://github.com/python/redistributor-guide):stderr:data: Cloning into 'undefined\pyth--04-13-2021--uSxkDERE5NoW5Fx6jPm3Zt/redistributor-guide'...
+child_process(77765)::clone(https://github.com/python/redistributor-guide):stderr:data: POST git-upload-pack (164 bytes)
+child_process(77765)::clone(https://github.com/python/redistributor-guide):stderr:data: POST git-upload-pack (202 bytes)
+child_process(77765)::clone(https://github.com/python/redistributor-guide):stderr:data: remote: Enumerating objects: 5, done.        
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 5        
+child_process(77765)::clone(https://github.com/python/redistributor-guide):stderr:data: Receiving objects:  20% (1/5)child_process(77765)::clone(https://github.com/python/redistributor-guide):stderr:data: Receiving objects:  80% (4/5)child_process(77765)::clone(https://github.com/python/redistributor-guide):stderr:data: Receiving objects: 100% (5/5)Receiving objects: 100% (5/5), 4.86 KiB | 4.86 MiB/s, done.
+child_process(77765)::clone(https://github.com/python/redistributor-guide):close()

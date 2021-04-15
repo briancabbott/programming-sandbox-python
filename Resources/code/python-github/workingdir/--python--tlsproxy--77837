@@ -1,0 +1,6 @@
+child_process(77837)::clone(https://github.com/python/tlsproxy):stderr:data: Cloning into 'undefined\pyth--04-13-2021--uSxkDERE5NoW5Fx6jPm3Zt/tlsproxy'...
+child_process(77837)::clone(https://github.com/python/tlsproxy):stderr:data: POST git-upload-pack (164 bytes)
+child_process(77837)::clone(https://github.com/python/tlsproxy):stderr:data: POST git-upload-pack (202 bytes)
+child_process(77837)::clone(https://github.com/python/tlsproxy):stderr:data: remote: Enumerating objects: 8, done.        
+child_process(77837)::clone(https://github.com/python/tlsproxy):stderr:data: remote: Total 8 (delta 0), reused 0 (delta 0), pack-reused 8        
+child_process(77837)::clone(https://github.com/python/tlsproxy):stderr:data: Receiving objects:  12% (1/8)child_process(77837)::clone(https://github.com/python/tlsproxy):stderr:data: Receiving objects:  25% (2/8)Receiving objects:  37% (3/8)child_process(77837)::clone(https://github.com/python/tlsproxy):stderr:data: Receiving objects:  50% (4/8)Receiving objects:  62% (5/8)child_process(77837)::clone(https://github.com/python/tlsproxy):stderr:data: Receiving objects:  87% (7/8)Receiving objects: 100% (8/8)Receiving objects: 100% (8/8), done.

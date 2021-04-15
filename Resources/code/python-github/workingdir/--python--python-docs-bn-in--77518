@@ -1,0 +1,4 @@
+child_process(77518)::clone(https://github.com/python/python-docs-bn-in):stderr:data: Cloning into 'undefined\pyth--04-13-2021--uSxkDERE5NoW5Fx6jPm3Zt/python-docs-bn-in'...
+child_process(77518)::clone(https://github.com/python/python-docs-bn-in):stderr:data: POST git-upload-pack (164 bytes)
+child_process(77518)::clone(https://github.com/python/python-docs-bn-in):stderr:data: warning: You appear to have cloned an empty repository.
+child_process(77518)::clone(https://github.com/python/python-docs-bn-in):close()
